@@ -1,9 +1,6 @@
 # Certifications
 
 
-
-
-<!-- faq 1 -->
 <details>
 <summary>  Autodesk AutoCAD Certified Associate  </summary>
 <br/>
@@ -13,7 +10,7 @@
 ---
 </details>
 
-<!-- faq 1 -->
+
 <details>
 <summary>  Linkedin Advanced NLP with Python for Machine Learning  </summary>
 <br/>
@@ -22,3 +19,14 @@
  
 ---
 </details>
+
+
+<details>
+<summary>  Linkedin API Testing Foundations  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/135727641-405ba402-1297-4570-897e-03ec7cf2088b.png)
+ 
+---
+</details>
+
