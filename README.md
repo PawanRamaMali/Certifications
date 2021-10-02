@@ -30,3 +30,13 @@
 ---
 </details>
 
+<details>
+<summary>  Linkedin Applied Machine Learning Foundations  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/135727660-a42630bf-e6e4-4e86-ae08-39b5a2a0f104.png)
+ 
+---
+</details>
+
+
