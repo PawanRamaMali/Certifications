@@ -13,5 +13,12 @@
 ---
 </details>
 
-
-[Automate the Boring Stuff with Python Programming](https://ude.my/UC-cacb4635-ba82-45e6-93a3-b009fbfefc52)
+<!-- faq 1 -->
+<details>
+<summary>  Linkedin Advanced NLP with Python for Machine Learning  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/135727558-1d16e040-e7a7-4255-9711-1676e34755e7.png)
+ 
+---
+</details>
