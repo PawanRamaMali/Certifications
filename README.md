@@ -50,5 +50,14 @@
 ---
 </details>
 
+<details>
+<summary>  Building Deep Learning Applications with Keras 2.0  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/135727717-342b46bb-f1ab-42a8-955e-b3e2fb3c7abb.png)
+ 
+---
+</details>
+
 
 
