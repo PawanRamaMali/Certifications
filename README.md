@@ -39,4 +39,14 @@
 ---
 </details>
 
+<details>
+<summary>  Linkedin Building and Deploying Deep Learning Applications with TensorFlow  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/135727678-2c1d31b9-f69d-48d0-91f0-a22ab6c89e4a.png)
+ 
+---
+</details>
+
+
 
