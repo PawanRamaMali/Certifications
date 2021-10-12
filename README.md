@@ -130,3 +130,12 @@
  
 ---
 </details>
+
+<details>
+<summary> Modern Web Scrapping Fundamentals with Python </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/136996668-828cb936-8bbf-4141-b78b-55f8d1667fa2.png)
+ 
+---
+</details>
