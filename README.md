@@ -121,3 +121,12 @@
  
 ---
 </details>
+
+<details>
+<summary> Leadership: Practical Leadership Skills </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/136996408-0c2f1e9b-2b80-434b-ad38-e18afd405298.png)
+ 
+---
+</details>
