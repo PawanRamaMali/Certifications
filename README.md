@@ -11,6 +11,21 @@
 ---
 </details>
 
+
+
+### Kaggle Certifications
+
+<details>
+<summary>  Natural Language Processing  </summary>
+<br/>
+ 
+![Kaggle - Natural Language Processing](https://user-images.githubusercontent.com/11299574/136995231-1e24c062-6a2f-4a5a-a6b6-0720777d905f.png)
+ 
+---
+</details>
+
+
+
 ### Linkedin Certifications
 
 <details>
