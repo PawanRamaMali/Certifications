@@ -24,6 +24,15 @@
 ---
 </details>
 
+<details>
+<summary> Python </summary>
+<br/>
+ 
+![Kaggle - Python](https://user-images.githubusercontent.com/11299574/136995500-be71221f-550d-4fe1-82dd-562be21fa009.png)
+
+---
+</details>
+
 
 
 ### Linkedin Certifications
