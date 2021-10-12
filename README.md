@@ -93,3 +93,14 @@
 </details>
 
 
+### Udemy Certifications
+
+<details>
+<summary> Automate the Boring Stuff with Python Programming  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/136995772-8a551e9f-df64-474c-a487-ac9296178daa.png)
+ 
+---
+</details>
+
