@@ -99,7 +99,16 @@
 <summary> Automate the Boring Stuff with Python Programming  </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/136995772-8a551e9f-df64-474c-a487-ac9296178daa.png)
+![image](https://user-images.githubusercontent.com/11299574/136995909-407877ca-9818-4ecf-9ad3-d308d21c11fb.png)
+ 
+---
+</details>
+
+<details>
+<summary> Build a Backend REST API with Python & Django - Beginner  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/136995971-343437d2-8aaa-4c0d-b68d-c3084b5e9530.png)
  
 ---
 </details>
