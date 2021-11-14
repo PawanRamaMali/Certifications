@@ -119,6 +119,15 @@
 ---
 </details>
 
+<details>
+<summary> Designing RESTful APIs </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690685-d12079f4-5de3-492e-a822-1534ad615936.png)
+ 
+---
+</details>
+
 ### Udemy Certifications
 
 <details>
