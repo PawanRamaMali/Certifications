@@ -164,6 +164,16 @@
 ---
 </details>
 
+<details>
+<summary> Master R for Data Science </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690974-195f4500-2421-4e62-8efc-00301ce73c91.png)
+ 
+---
+</details>
+
+
 
 ### Udemy Certifications
 
