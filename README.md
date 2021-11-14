@@ -146,6 +146,15 @@
 ---
 </details>
 
+<details>
+<summary> Logistic Regression in R and Excel </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690893-31bd4bcf-2967-41b0-b240-5a51613c22f7.png)
+ 
+---
+</details>
+
 ### Udemy Certifications
 
 <details>
