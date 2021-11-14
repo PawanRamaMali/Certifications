@@ -209,6 +209,16 @@
 ---
 </details>
 
+<details>
+<summary>  R for Excel Users </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141691195-33336729-0672-43df-9f35-156b8bd3efcf.png)
+ 
+---
+</details>
+
+
 ### Udemy Certifications
 
 <details>
