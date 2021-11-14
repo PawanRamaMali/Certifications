@@ -101,6 +101,15 @@
 ---
 </details>
 
+<details>
+<summary>  Data Wrangling in R (2017)  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690620-5c502726-e6a7-4006-be7e-31032e51d157.png)
+ 
+---
+</details>
+
 ### Udemy Certifications
 
 <details>
