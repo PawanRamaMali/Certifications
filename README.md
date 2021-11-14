@@ -218,6 +218,15 @@
 ---
 </details>
 
+<details>
+<summary>  R Programming in Data Science Setup and Start </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141691227-3acaadcf-a2b0-4d71-8144-1c8a855e1bea.png)
+ 
+---
+</details>
+
 
 ### Udemy Certifications
 
