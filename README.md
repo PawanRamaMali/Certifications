@@ -137,6 +137,14 @@
 ---
 </details>
 
+<details>
+<summary> Learning R </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690760-4cbc7d51-fc89-4f4d-ab24-68ac7ce892f4.png)
+ 
+---
+</details>
 
 ### Udemy Certifications
 
