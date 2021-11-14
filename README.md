@@ -227,6 +227,15 @@
 ---
 </details>
 
+<details>
+<summary>  Social Network Analysis Using R </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141691269-56bbfc24-78ee-438a-b4d2-ff975a17ca8b.png)
+ 
+---
+</details>
+
 
 ### Udemy Certifications
 
