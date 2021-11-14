@@ -155,6 +155,16 @@
 ---
 </details>
 
+<details>
+<summary> Managing Python Projects </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690925-12dd6602-48d1-419e-b658-e3ddbe445223.png)
+ 
+---
+</details>
+
+
 ### Udemy Certifications
 
 <details>
