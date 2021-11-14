@@ -110,6 +110,15 @@
 ---
 </details>
 
+<details>
+<summary> Deep Learning: Image Recognition </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690653-53cdc9be-f0d6-4406-b9c4-15891c83536f.png)
+ 
+---
+</details>
+
 ### Udemy Certifications
 
 <details>
