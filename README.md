@@ -191,6 +191,23 @@
 ---
 </details>
 
+<details>
+<summary> NLP with Python for Machine Learning Essential Training </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141691109-7724a72a-ba2a-4526-8f9b-4f62a6998791.png)
+ 
+---
+</details>
+
+<details>
+<summary> Python Data Structures Trees </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141691149-2ffd003b-82e6-4eb4-a096-98a2c3920e48.png)
+ 
+---
+</details>
 
 ### Udemy Certifications
 
