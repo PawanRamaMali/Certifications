@@ -128,6 +128,16 @@
 ---
 </details>
 
+<details>
+<summary> Integrating Tableau and R for Data Science </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690731-e55aa75b-8040-4efe-8317-6dc5829a36ce.png)
+ 
+---
+</details>
+
+
 ### Udemy Certifications
 
 <details>
