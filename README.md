@@ -92,6 +92,14 @@
 ---
 </details>
 
+<details>
+<summary>  Code Clinic R  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/141690579-6c534e31-44d2-4a58-b85e-6cd088996e19.png)
+ 
+---
+</details>
 
 ### Udemy Certifications
 
