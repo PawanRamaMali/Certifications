@@ -1,6 +1,6 @@
 # Certifications
 
-### Autodesk Certifications
+### Autodesk 
 
 <details>
 <summary>   AutoCAD Certified Associate  </summary>
@@ -12,7 +12,7 @@
 </details>
 
 
-### Business Science University Certifications
+### Business Science University 
 
 <details>
 <summary>    DS4B 202A-R Shiny Developer with AWS  </summary>
@@ -32,7 +32,7 @@
 ---
 </details>
 
-### Kaggle Certifications
+### Kaggle 
 
 <details>
 <summary>  Natural Language Processing  </summary>
@@ -54,7 +54,7 @@
 
 
 
-### Linkedin Certifications
+### Linkedin 
 
 <details>
 <summary>  Advanced NLP with Python for Machine Learning  </summary>
@@ -256,7 +256,7 @@
 </details>
 
 
-### Udemy Certifications
+### Udemy 
 
 <details>
 <summary> Automate the Boring Stuff with Python Programming  </summary>
