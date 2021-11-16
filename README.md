@@ -23,6 +23,14 @@
 ---
 </details>
 
+<details>
+<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+ 
+---
+</details>
 
 ### Kaggle Certifications
 
