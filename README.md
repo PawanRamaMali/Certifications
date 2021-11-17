@@ -33,10 +33,10 @@
 </details>
 
 <details>
-<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<summary>    DS4B 201-R Data Science For Business With R  </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+![image](https://user-images.githubusercontent.com/11299574/142258392-d21884cb-2448-421a-a58c-9d8401124791.png)
  
 ---
 </details>
