@@ -15,10 +15,37 @@
 ### Business Science University 
 
 <details>
-<summary>    DS4B 202A-R Shiny Developer with AWS  </summary>
+<summary>    DS4B 101-R Business Analysis with R  </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/141732323-fed10262-9660-488f-b688-7f58c463a5a4.png)
+![image](https://user-images.githubusercontent.com/11299574/142258292-7e58bd72-a8e7-4ba1-9ad2-9aba9d67bf70.png)
+ 
+---
+</details>
+
+<details>
+<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+ 
+---
+</details>
+
+<details>
+<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+ 
+---
+</details>
+
+<details>
+<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
  
 ---
 </details>
