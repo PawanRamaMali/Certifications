@@ -42,22 +42,23 @@
 </details>
 
 <details>
-<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<summary>    DS4B 202A-R Shiny Developer with AWS  </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+![image](https://user-images.githubusercontent.com/11299574/142258494-0b624bec-4b7f-448f-a503-1b0f91f8e0ba.png)
  
 ---
 </details>
 
 <details>
-<summary>    DS4B 102-R Shiny Dashboards  </summary>
+<summary>    DS4B 203-R High Performance Time Series Forcasting  </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/142053344-a29c3fbe-88cc-4aea-a22a-e44b460cefb6.png)
+![image](https://user-images.githubusercontent.com/11299574/142258624-03d5eabe-adb2-4a6a-b948-33ecf13493c4.png)
  
 ---
 </details>
+
 
 ### Kaggle 
 
