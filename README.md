@@ -350,10 +350,10 @@
 </details>
 
 <details>
-<summary> Pragmatic System Design </summary>
+<summary> R Shiny Interactive Web Apps Next Level Data Visualization </summary>
 <br/>
  
-![image](https://user-images.githubusercontent.com/11299574/142448494-10debffb-5611-49d3-a1b1-69aac736cadd.png)
+![image](https://user-images.githubusercontent.com/11299574/142448707-ed31d8a5-879b-4d06-ac22-a6a69335a695.png)
  
 ---
 </details>
