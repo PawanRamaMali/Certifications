@@ -385,3 +385,14 @@
 ---
 </details>
 
+
+### vSkills 
+
+<details>
+<summary>  Project Management  </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142449960-aa738e1a-7895-474d-b3dc-e4d9a4165409.png)
+ 
+---
+</details>
