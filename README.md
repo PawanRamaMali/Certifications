@@ -366,3 +366,12 @@
  
 ---
 </details>
+
+<details>
+<summary> The Complete Cyber Security Course  Hackers Exposed </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142449362-78bd0e2c-8a7e-4bf8-b021-6d7b2efc977d.png)
+ 
+---
+</details>
