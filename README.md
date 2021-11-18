@@ -340,3 +340,20 @@
 ---
 </details>
 
+<details>
+<summary> Pragmatic System Design </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142448494-10debffb-5611-49d3-a1b1-69aac736cadd.png)
+ 
+---
+</details>
+
+<details>
+<summary> Pragmatic System Design </summary>
+<br/>
+ 
+![image](https://user-images.githubusercontent.com/11299574/142448494-10debffb-5611-49d3-a1b1-69aac736cadd.png)
+ 
+---
+</details>
